@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-tbzsep.densmirnov.com/sitemap.xml
